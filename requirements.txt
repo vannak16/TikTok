@@ -2,7 +2,8 @@ random
 threading
 time
 uuid4
-Fore, init
+Fore
+init
 requests
 json
 sys
